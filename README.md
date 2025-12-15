@@ -1,30 +1,87 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shradha Maharjan</h1>
-<h3 align="center">Graduate Student in Computer Science</h3>
+<h3 align="center">Graduate Student in Computer Science | Data Analytics & Engineering</h3>
 
-💻 Passionate about data engineering and leveraging machine learning to solve real-world problems.
+💡 Detail-oriented data professional with experience in **data analytics, data engineering, and applied machine learning**.  
+I enjoy transforming raw data into reliable datasets, building insightful dashboards, and developing ML-driven tools that support real-world decision-making.
 
+---
 
-- 🔭 I’m currently working on [enhancing code completion technologies using large language models.](https://gitlab.com/group001/research-shradha)
+### 🔭 What I’m Working On
+- Enhancing **intelligent code completion systems** using Large Language Models, ASTs, and program analysis  
+  👉 [CODECOM Research Project](https://gitlab.com/group001/research-shradha)
+- Building **data pipelines, dashboards, and analytics tools** using Python, SQL, and Power BI
+- Exploring scalable ML workflows using **Docker, Kubernetes, and cloud platforms**
 
+---
 
-- 🌱 I’m currently learning **advanced concepts in Natural Language Processing, Data Mining, Data Engineering and Algorithm Design.**
+### 🌱 Currently Learning
+- Advanced **Natural Language Processing** and Transformer-based models  
+- **Data Engineering** concepts: ELT pipelines, cloud storage, and analytics platforms  
+- **Data Mining & Algorithm Design** for large-scale datasets
 
-- 👯 I’m looking to collaborate on **machine learning projects, data-driven decision-making tools, and open-source initiatives.**
+---
 
-- 🤝 I’m looking for help with **contributing to open-source projects and exploring real-world applications of transformers.**
+### 👯 Open to Collaborate On
+- Data analytics & BI projects (dashboards, KPIs, reporting automation)
+- Data engineering pipelines (SQL, ETL/ELT, cloud-based workflows)
+- Applied ML projects with real-world datasets
+- Research-oriented or open-source projects at the intersection of **data + ML**
 
-- 📫 How to reach me **shradha.maharjan@outlook.com**
+---
+
+### 🤝 Looking For
+- Open-source contributions and mentorship opportunities  
+- Real-world applications of **LLMs, analytics, and data engineering**
+
+---
+
+### 📫 Let’s Connect
+- 📧 Email: **shradha.maharjan@outlook.com**
+- 💼 LinkedIn: [linkedin.com/in/maharjanshradha](https://linkedin.com/in/maharjanshradha)
+- 🧑‍💻 GitHub: [github.com/shradha-maharjan](https://github.com/shradha-maharjan)
+
+---
 
 ## 🚀 Skills & Technologies
 
-- **Programming Languages**: Python, SQL, Java, C, C++, PHP, HTML, CSS  
-- **Data Management**: Analysis, Cleaning, Preprocessing, Modeling, Visualization, Validation  
-- **Libraries**: PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, NLTK  
-- **Developer Tools**: Git, Docker, Kubernetes  
-- **Databases & Tools**: SQL Server, Microsoft Access, SSRS, SSIS, Tableau , PowerBI
-- **Soft Skills**: Problem-solving, Communication, Teamwork, Leadership  
+### 💻 Programming & Query Languages
+- Python, SQL (T-SQL, MySQL, PostgreSQL)
+- Java, Bash / PowerShell
+- HTML, CSS
+
+### 📊 Data Analytics & BI
+- Power BI (Power Query, DAX, KPI Dashboards)
+- Tableau, SSRS, Excel
+- Data cleaning, validation, transformation, and visualization
+
+### 🧠 Machine Learning & NLP
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- Scikit-learn
+- PyTorch, TensorFlow
+- Hugging Face Transformers, NLTK
+
+### 🔄 Data Engineering & Integration
+- SQL-based ETL / ELT logic
+- SSIS, Azure Data Factory (basic)
+- Databricks (familiar)
+- Snowflake (basic)
+- JSON / CSV / API-based data extraction
+
+### ☁️ Cloud & Platforms
+- Azure SQL, ADLS Gen2, Azure Storage
+- AWS (S3, Lambda, SageMaker – familiar)
+
+### ⚙️ DevOps & Tooling
+- Git, GitHub Actions
+- Docker, Kubernetes
+
+### 🤝 Professional Skills
+- Data storytelling & KPI development
+- Requirements gathering & stakeholder communication
+- Documentation & cross-team collaboration
+- Problem-solving & analytical thinking
 
 
 <h3 align="left">Connect with me:</h3>
